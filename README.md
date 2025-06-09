@@ -1,5 +1,3 @@
-# gpt2_training
-
 # [GPT2-Training]
 
 本项目是Keller Jordan的[modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)项目的复现版本。
